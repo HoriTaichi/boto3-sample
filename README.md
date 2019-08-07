@@ -56,7 +56,7 @@ sudo vi ~/.aws/credentials
 aws_access_key_id = YOUR_ACCESS_KEY
 aws_secret_access_key = YOUR_SECRET_KEY
 ```
-「YOUR_ACCESS_KEY」と「YOUR_SECRET_KEY」については、https://console.aws.amazon.com/iam/home画面からユーザを作成し、アクセスキーとシークレットキーを設定してください。
+「YOUR_ACCESS_KEY」と「YOUR_SECRET_KEY」については、https://console.aws.amazon.com/iam/home 画面からユーザを作成し、アクセスキーとシークレットキーを設定してください。
 
 ### boto3のconf「config」作成
 ```
